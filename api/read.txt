@@ -1,0 +1,2 @@
+READ:
+1. BLOG JS VALUES: api/blog/blogname
