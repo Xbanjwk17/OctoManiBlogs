@@ -1,0 +1,16 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body {
+    background: rgb(179, 46, 46);
+}
+
+button {
+    background-color: green;
+    transition: .8s;
+}
+
+button:hover {
+    background-color: darkgreen;
+}
